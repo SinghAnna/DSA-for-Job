@@ -592,7 +592,7 @@
 
 **🎯 Remember:** Consistency is key. Solve daily, track progress, and never give up!
 
-**Built with ❤️ by [Your Name]** | [LinkedIn](your-linkedin-url) | [LeetCode](your-leetcode-url)
+**Built with ❤️ by [Anant Singh]** | [LinkedIn](linkedin.com/in/anant-singh09) | [LeetCode](https://leetcode.com/u/Anant_Singh12/)
 
 ---
 
